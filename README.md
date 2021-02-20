@@ -7,7 +7,7 @@ Basic Flashcard app that can:
 - display a question
 - respond to a user's tap to display the answer to the question
 
-### App Walk-though
+### App Walk-through
 <img src="https://media.giphy.com/media/bI8Ba5WROtFlLbO5ay/giphy.gif" width=200><br>
 
 ## Required
